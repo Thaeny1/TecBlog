@@ -1,0 +1,134 @@
+.fundo{
+	background: #E3E3E3;
+}
+
+#top{
+	background:#FFC309;
+	height: 120px;
+}
+
+.pagetitle{
+	font: 40px sans-serif ;
+	font-weight:bold;
+	text-align: center;
+	padding-top:50px;
+}
+
+.grey{
+	color: #4F4E49 ;
+}
+
+.white{
+	color: #FCFCF9 ;
+}
+
+#links{
+	padding: 5px;
+	background:#FFC309;
+	text-align: center;
+	height: 30px;
+}
+
+a{
+	color: white;
+	font: 16px sans-serif;
+	padding: 5px;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#FFC309;
+	background:#F0F0EE ;
+}
+
+#postagem1{
+	float: left;
+	margin: 20px 95px;
+	background:#F7F7F7;
+	width: 800px;
+	height: 740px;
+}
+
+.tituloconteudo{
+	color: #FFC309 ;
+	font-size: 30px;
+	padding-left: 25px;
+	padding-top: 3px;
+}
+
+.texto{
+	padding-left: 25px;
+	margin: 5px 5px;
+}
+
+.posts{
+	position: relative;
+	left: 25px;
+	bottom: 25px;
+}
+
+.imagens{
+	height: 500px;
+	position: relative;
+	left: 20px;
+	bottom: 25px;
+}
+
+
+#postagem2{
+
+
+	background:#F7F7F7;
+	position: relative;
+	right: 5px;
+	padding: 2px 25px;
+	margin-top: 16px;
+	margin-left: 940px;
+	margin-right: 120px;
+
+	
+}
+
+.titulopostagens2{
+
+	background: #D6D6D2;
+	color: #A7A7A7;
+	text-align: left;
+	padding: 10px 10x;
+
+}
+
+.conteudopostagens2{
+	margin: 5px;
+	
+}
+
+.linkpostagem2{
+	color:#FFC309;
+}
+
+.linkpostagem3{
+	font-size: 18px;
+	color:#FFC309;
+	margin: 10px;
+	padding-bottom: 10px;
+}
+
+.linkpostagem4{
+	font-size: 15px;
+	color:#FFC309;
+	margin: 18px;
+	text-align: justify;
+}
+
+.rodape{
+	position: relative;
+	top: 1150px;
+	right: 590px;
+}
+
+
+
+
+
+
